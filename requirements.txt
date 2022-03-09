@@ -1,0 +1,11 @@
+streamlit==0.73.1
+pandas
+keras
+tensorflow
+xlrd
+openpyxl
+plotly
+matplotlib
+sklearn
+Image
+opencv-python
