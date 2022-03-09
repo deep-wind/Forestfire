@@ -32,7 +32,7 @@ st.markdown("<h1 style ='color:black; text_align:center;font-family:times new ro
 image_file = st.file_uploader("Upload Images", type=["png","jpg"])
 
 
-if image_file is not None:
+if(st.button('Predict')):
 	 # To See details
     file_details = {"filename":image_file.name, "filetype":image_file.type,
                       "filesize":image_file.size}
