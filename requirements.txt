@@ -9,3 +9,10 @@ matplotlib
 sklearn
 Image
 opencv-python
+xlrd
+openpyxl
+plotly
+matplotlib
+sklearn
+pyhdf
+
